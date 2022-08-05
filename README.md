@@ -1,15 +1,15 @@
 ## Добро пожаловать 👋
 Публичные проекты:
 - Проекты Яндекс.Практикума:
-    + [hw05_final](/hw05_final)
-    + [api_final_yatube](/api_final_yatube)
-    + [api_yamdb](/api_yamdb)
+    + [hw05_final](https://github.com/abp-ce/hw05_final)
+    + [api_final_yatube](https://github.com/abp-ce/api_final_yatube)
+    + [api_yamdb](https://github.com/abp-ce/api_yamdb)
 - Pet-проекты:
-    + [m3u_fastapi](/m3u_fastapi)
-    + [m3u_vue_cli](/m3u_vue_cli)
+    + [m3u_fastapi](https://github.com/abp-ce/m3u_fastapi)
+    + [m3u_vue_cli](https://github.com/abp-ce/m3u_vue_cli)
 - Тестовые задания:
-    + [kutafin](/kutafin)
-    + [Neurus-test](/Neurus-test)
+    + [kutafin](https://github.com/abp-ce/kutafin)
+    + [Neurus-test](https://github.com/abp-ce/Neurus-test)
 <!--
 **abp-ce/abp-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
