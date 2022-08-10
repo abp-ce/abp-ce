@@ -10,6 +10,9 @@
 - Тестовые задания:
     + [kutafin](https://github.com/abp-ce/kutafin)
     + [Neurus-test](https://github.com/abp-ce/Neurus-test)
+
+Контакты:
+[📧 a_b_polyakov@outlook.com](mailto:a_b_polyakov@outlook.com), [<img src="telegram_logo.png" width="15" height="15"> @A_Polyakov](https://t.me/A_Polyakov)
 <!--
 **abp-ce/abp-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
