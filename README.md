@@ -2,6 +2,7 @@
 Публичные проекты:
 - Проекты Яндекс.Практикума:
     + [hw05_final](https://github.com/abp-ce/hw05_final)
+    + [homework_bot](https://github.com/abp-ce/homework_bot)
     + [api_final_yatube](https://github.com/abp-ce/api_final_yatube)
     + [api_yamdb](https://github.com/abp-ce/api_yamdb)
 - Pet-проекты:
