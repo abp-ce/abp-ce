@@ -6,7 +6,6 @@
     + [api_final_yatube](https://github.com/abp-ce/api_final_yatube)
     + [hw05_final](https://github.com/abp-ce/hw05_final)
     + [homework_bot](https://github.com/abp-ce/homework_bot)
-    + [api_yamdb](https://github.com/abp-ce/api_yamdb)
 - Pet-проекты:
     + [m3u_fastapi](https://github.com/abp-ce/m3u_fastapi)
     + [m3u_vue_cli](https://github.com/abp-ce/m3u_vue_cli)
