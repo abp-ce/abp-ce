@@ -8,7 +8,7 @@
     + [homework_bot](https://github.com/abp-ce/homework_bot) *- requets, python-telegram-bot, logging*
 - Pet-проекты:
     + [m3u-backend](https://github.com/abp-ce/m3u-backend) *- FastAPI, PostgreSQL, SQLAlchemy (async ORM)*
-    + [m3u-aiogram](https://github.com/abp-ce/m3u-aiogram) *- Aiogram 3.0.0b6 (Redis storage), httpx, SQLAlchemy*
+    + [m3u-aiogram](https://github.com/abp-ce/m3u-aiogram) *- Aiogram 3.0.0b6 (Redis storage), httpx, SQLAlchemy, Alembic*
     + [m3u_vue_cli](https://github.com/abp-ce/m3u_vue_cli) *- Vue.js CLI, Axios, Bootstrap-vue, Vuex, Vue-router*
 - Тестовые задания:
     + [kutafin](https://github.com/abp-ce/kutafin) *- Selenium, google-api-python-client, BeautifulSoup*
