@@ -11,7 +11,7 @@
     + [m3u-aiogram](https://github.com/abp-ce/m3u-aiogram) *- Aiogram 3.0.0b6 (Redis storage), httpx, SQLAlchemy*
     + [m3u_vue_cli](https://github.com/abp-ce/m3u_vue_cli) *- Vue.js CLI, Axios, Bootstrap-vue, Vuex, Vue-router*
 - Тестовые задания:
-    + [wta_backend](https://github.com/abp-ce/wta_backend) *- FastAPI, BS4, Celenium, PostgreSQL, Redis, SQLAlchemy (async ORM), Alembic*
+    + [wta_backend](https://github.com/abp-ce/wta_backend) *- FastAPI, BS4, Celery, PostgreSQL, Redis, SQLAlchemy (async ORM), Alembic*
     + [Neurus-test](https://github.com/abp-ce/Neurus-test) *- Vue.js CLI, Axios, Bootstrap-vue, Vuex, Vue-router*
 
 Контакты:
